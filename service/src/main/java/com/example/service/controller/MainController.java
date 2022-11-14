@@ -1,8 +1,5 @@
 package com.example.service.controller;
 
-import com.codahale.metrics.Counter;
-import com.codahale.metrics.Meter;
-import com.codahale.metrics.MetricRegistry;
 import com.example.service.aop.MetricAddRq;
 import com.example.service.aop.MetricGetRq;
 import com.example.service.aop.TotalRq;
